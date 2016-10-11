@@ -1,0 +1,1 @@
+# cacti-squid-template
